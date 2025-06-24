@@ -1,0 +1,15 @@
+From: PayPal <support@secure-paypall.com>
+Subject: Urgent: Your Account Has Been Suspended
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account.  
+Your account has been temporarily locked for your safety.  
+To restore access, please click the secure link below and verify your information:
+
+https://secure-paypall.com/account/login
+
+Failure to do so will result in permanent account suspension.
+
+Sincerely,  
+PayPal Support
