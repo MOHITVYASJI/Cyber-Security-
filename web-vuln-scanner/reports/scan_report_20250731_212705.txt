@@ -1,0 +1,5 @@
+Scan Report - Web Vulnerability Scanner
+Target: https://cdgi.accsofterp.com/AccSoft_CDGI/StudentLogin.aspx
+Date: 2025-07-31 21:27:05.405414
+
+[+] Scanning page: https://cdgi.accsofterp.com/AccSoft_CDGI/StudentLogin.aspx

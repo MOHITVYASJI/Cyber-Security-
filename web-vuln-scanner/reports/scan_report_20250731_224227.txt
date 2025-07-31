@@ -1,0 +1,5 @@
+Scan Report - Web Vulnerability Scanner
+Target: https://www.sony.co.in/microsite/playstation/product/ps2/ps2.html
+Date: 2025-07-31 22:42:27.018024
+
+[+] Scanning page: https://www.sony.co.in/microsite/playstation/product/ps2/ps2.html

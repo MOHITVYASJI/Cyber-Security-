@@ -1,0 +1,5 @@
+Scan Report - Web Vulnerability Scanner
+Target: https://hackwave-8325.onrender.com
+Date: 2025-07-31 22:43:25.259977
+
+[+] Scanning page: https://hackwave-8325.onrender.com

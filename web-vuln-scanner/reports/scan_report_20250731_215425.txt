@@ -1,0 +1,17 @@
+Scan Report - Web Vulnerability Scanner
+Target: https://hackwave-8325.onrender.com
+Date: 2025-07-31 21:54:25.084916
+
+[+] Scanning page: https://hackwave-8325.onrender.com
+[+] Scanning page: https://hackwave-8325.onrender.com#contact
+[+] Scanning page: https://hackwave-8325.onrender.com#team
+[+] Scanning page: https://hackwave-8325.onrender.com#how-to-use
+[+] Scanning page: https://hackwave-8325.onrender.com#about
+[+] Scanning page: https://hackwave-8325.onrender.com/home
+[+] Scanning page: https://hackwave-8325.onrender.com/login
+[+] Scanning page: https://hackwave-8325.onrender.com/notification
+[+] Scanning page: https://hackwave-8325.onrender.com/
+[+] Scanning page: https://hackwave-8325.onrender.com/#contact
+[+] Scanning page: https://hackwave-8325.onrender.com/#team
+[+] Scanning page: https://hackwave-8325.onrender.com/#how-to-use
+[+] Scanning page: https://hackwave-8325.onrender.com/#about

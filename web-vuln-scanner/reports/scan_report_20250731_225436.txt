@@ -1,0 +1,5 @@
+Scan Report - Web Vulnerability Scanner
+Target: https://www.rgpv.ac.in/NoAcess.aspx
+Date: 2025-07-31 22:54:36.611664
+
+[+] Scanning page: https://www.rgpv.ac.in/NoAcess.aspx
